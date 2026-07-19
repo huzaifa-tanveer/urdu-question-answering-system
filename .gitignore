@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.zip
+backend/mt5_model/
+backend/xlm_roberta_model/
+*.safetensors
+*.bin
